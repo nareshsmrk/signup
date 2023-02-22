@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Naresh Kumar ",
+      "lastName": "S",
+      "email": "naresh.smrk@gmail.com",
+      "phone": "9500344577",
+      "company": "waioz consultancy",
+      "gender": "male",
+      "dob": "2023-02-02",
+      "password": "12345"
+    },
+    {
+      "id": 5,
+      "firstName": "Naresh Kumar ",
+      "lastName": "S",
+      "email": "naresh.smrk@gmail.com",
+      "phone": "9500344577",
+      "company": "waioz",
+      "gender": "male",
+      "dob": "2023-02-01",
+      "password": "12345"
+    },
+    {
+      "id": 7,
+      "firstName": "CHANDRASEKAR",
+      "lastName": "C",
+      "email": "mrchandru1313@gmail.com",
+      "phone": "8056653186",
+      "company": "arigent",
+      "gender": "male",
+      "dob": "2023-02-05",
+      "password": "324454"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
